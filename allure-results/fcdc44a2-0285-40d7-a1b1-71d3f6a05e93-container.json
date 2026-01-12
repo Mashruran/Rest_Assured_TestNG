@@ -1,0 +1,1 @@
+{"uuid":"fcdc44a2-0285-40d7-a1b1-71d3f6a05e93","name":"dmoney_rest_assured_b16","children":["fe8d77da-9ae9-49c5-bc50-ebf6e9e46b77"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1768232193391,"stop":1768232193393}],"afters":[],"start":1768232193369,"stop":1768232196729}
