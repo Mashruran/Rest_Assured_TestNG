@@ -2,6 +2,7 @@ package config;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import java.security.PrivateKey;
 @JsonInclude(JsonInclude.Include.NON_NULL)
+    
 public class UserModel {
     private String firstName;
     private String lastName;
