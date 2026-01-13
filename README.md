@@ -37,8 +37,10 @@
 ## 🧰 Test Cases
 👉 [Test Case Documentation Link](https://docs.google.com/spreadsheets/d/1NchoUeJwxNLqPWkrRxaWuZRWbwXB5R2V/edit?gid=1561792322#gid=1561792322)
 ## 📊 Allure Report
-<img width="1071" height="843" alt="Screenshot 2026-01-12 220047" src="https://github.com/user-attachments/assets/38638f6f-6f54-4313-8b35-160fb082797d" />
-<img width="1070" height="728" alt="Screenshot 2026-01-12 215936" src="https://github.com/user-attachments/assets/2c30061b-3cf8-48e7-94c2-88117bd60265" />
+<img width="1079" height="802" alt="image" src="https://github.com/user-attachments/assets/a4f7b768-f91b-46d7-8950-bdb2f7266cb9" />
+<img width="1070" height="732" alt="image" src="https://github.com/user-attachments/assets/c7de6300-67f5-4c10-a914-cdd351d732b7" />
+
+
 
 
 
