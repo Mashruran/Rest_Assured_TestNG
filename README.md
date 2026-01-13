@@ -40,6 +40,11 @@
 <img width="1079" height="802" alt="image" src="https://github.com/user-attachments/assets/a4f7b768-f91b-46d7-8950-bdb2f7266cb9" />
 <img width="1070" height="732" alt="image" src="https://github.com/user-attachments/assets/c7de6300-67f5-4c10-a914-cdd351d732b7" />
 
+## 🚀 How to Run Tests
+- ```https://github.com/Mashruran/Rest_Assured_TestNG```
+- ```gradle clean test```
+- ```allure serve allure-results```
+
 
 
 
